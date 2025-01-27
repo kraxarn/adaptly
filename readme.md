@@ -1,3 +1,4 @@
-# Adaptly - Adaptable, and customisable, reminders and tasks
+# Adaptly
+## Adaptable, and customisable, reminders and tasks
 
 At least soon
